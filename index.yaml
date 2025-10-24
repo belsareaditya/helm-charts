@@ -1,9 +1,9 @@
 apiVersion: v1
 entries:
-  mychart:
+  mychart1:
     - apiVersion: v2
-      name: mychart
+      name: mychart1
       version: 0.1.0
       urls:
-        - https://belsareaditya.github.io/helm-charts/mychart-0.1.0.tgz
+        - https://belsareaditya.github.io/helm-charts/mychart1-0.1.0.tgz
 generated: "2025-10-24T00:00:00Z"
